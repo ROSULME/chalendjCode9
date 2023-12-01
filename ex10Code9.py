@@ -1,0 +1,5 @@
+antreUser= input("antre yon chenn karakte: ")
+a=antreUser.replace(" ", "")
+v=len(a)
+f=a+str(v)
+print(f)
